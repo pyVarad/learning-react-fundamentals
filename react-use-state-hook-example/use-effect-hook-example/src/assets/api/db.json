@@ -1,0 +1,40 @@
+{
+    "players": [
+        {
+            "name": "Lionel Messi",
+            "title": "Mr",
+            "club": "Inter Miami",
+            "image": "https://media.architecturaldigest.com/photos/637949b3407644b8cdc8947f/1:1/w_2896,h_2896,c_limit/1442809583",
+            "price": 100000
+        },
+        {
+            "name": "Cristiano Ronaldo",
+            "club": "Al-Nassr",
+            "title": "Mr",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+            "price": 125000
+        },
+        {
+            "name": "Neymar Jr.",
+            "club": "Al-Hilal",
+            "title": "Mr",
+            "image": "https://i.pinimg.com/550x/ec/19/8f/ec198fcf32a824dfe8965ab879cfe5f3.jpg",
+            "price": 125000
+        },
+        {
+            "name": "Kylian Mbappe",
+            "club": "Paris Saint-Germain",
+            "title": "Mr",
+            "image": "https://images.wsj.net/im-678978/?width=1278&size=1",
+            "price": 150000
+        },
+        {
+            "name": "Kevin De Bruyne",
+            "club": "Manchester City",
+            "title": "Mr",
+            "image": "https://static.independent.co.uk/2022/10/23/19/1435606233.jpg",
+            "price": 75000
+        }
+    ],
+    "squad": []
+}
